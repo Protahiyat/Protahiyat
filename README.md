@@ -1,8 +1,8 @@
-## Deadbeat Saint 👁️‍🗨️  
-Cold. Clean. Cyber.  
+## Fealty
+ 
 🎓 Bachelor of Computer Science | Specializing in Cybersecurity & AI  
-📚 Currently working through: Google Cybersecurity Certificate  
-🔐 Future SOC Analyst | GRC Curious | Infosec Weapon  
+- Currently working through: Google Cybersecurity Certificate  
+
 
 ## 🔨 Projects
-- 🔍 **Log Analyzer Tool** – WIP
+- Current Project: RBVM-engine
